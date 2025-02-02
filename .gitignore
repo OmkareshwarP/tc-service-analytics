@@ -2,8 +2,8 @@
 .env
 dist
 /dist
-package-lock.json
-yarn.lock
+# package-lock.json
+# yarn.lock
 key.json
 
 secure-connect*
